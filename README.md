@@ -11,10 +11,12 @@ Ce dossier contient les solutions INGInious du cours LINFO1101-Introduction à l
 Professeurs : Pecheur Charles, Mens Kim, Nijseen Siegfried
 
 
-## LINFO1103 (Non disponible)
+## LINFO1103
 Ce dossier contient les solutions INGInious du cours LINFO1103-Introduction à l'algorithmique (2019-2020).
 
 Professeur : Dupont Pierre
+
+Remarque : Certains exercices n'étaient plus disponible au moment où je les ai mis sur le repo
 
 
 ### Des questions ?
