@@ -16,8 +16,6 @@ Ce dossier contient les solutions INGInious du cours LINFO1103-Introduction à l
 
 Professeur : Dupont Pierre
 
-Remarque : Certains exercices n'étaient plus disponible au moment où je les ai mis sur le repo
-
 
 ### Des questions ?
 Je suis disponible sur le serveur discord SINF-EPL ou par message privé : 'Oldgram#5777'

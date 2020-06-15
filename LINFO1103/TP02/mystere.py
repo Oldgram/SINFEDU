@@ -3,7 +3,7 @@ def mystere(n):
     pre: `n` > 0
     post: ???
     """
-    return 1/3*(n**3 + 3*n**2 + 2*n)
+    return (n ** 3 + 3 * n ** 2 + 2 * n) / 3
 
 
 # Exemple de test:
